@@ -1,0 +1,12 @@
+[
+  {
+    "todo_id": 1,
+    "title": "Buy Groceries",
+    "description": "Buy milk, eggs, and bread"
+  },
+  {
+    "todo_id": 2,
+    "title": "Clean House",
+    "description": "Clean the kitchen and bathroom"
+  }
+]
